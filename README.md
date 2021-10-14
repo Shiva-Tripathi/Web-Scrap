@@ -8,6 +8,6 @@ This software scraps information based on query from user
 ## **INSTRUCTIONS FOR USE**
 1. Extract and open the code.
 2. Install the following modules:
-> `pip install selenium`
-> `pip install beautifulsoup`
+`pip install selenium`
+`pip install beautifulsoup`
 3. Run the code.
